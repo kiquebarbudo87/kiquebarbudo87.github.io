@@ -1,0 +1,31 @@
+Cuestionario
+//Cuestionario realizado por Enrique Barbudo Ordóñez
+::Pregunta 1:: ¿Qué es un lenguaje de marcas?
+~Un lenguaje unificado entre ordenadores.
+~Un lenguaje usado para que usuarios y ordenadores se entiendan.
+=Una forma de codificar un documento que, junto con el texto, incorpora etiquetas o marcas que contienen información adicional acerca de la estructura del texto o su presentación.
+~Un lenguaje que usa marcas para definir imágenes en las páginas web.
+
+::Pregunta 2:: ¿Qúe tipo de programa usarías para escribir lenguaje de marcas?
+~Un procesador de texto.
+=Un editor de texto.
+~Un archivo pdf.
+~Un programa de texto e imágenes.
+
+::Pregunta 3:: ¿Qué tipo de lenguaje de marcas es LaTex?.
+~Lenguaje de marcado de presentación.
+~Lenguaje de marcado descriptivo.
+=Lenguaje de marcado procedimental.
+~Lenguaje de programación.
+
+::Pregunta 4:: ¿Cuál de las siguientes características no es propia de los lenguajes de marcas?
+~Uso de texto plano.
+~Flexibilidad.
+~Compacidad.
+~Difícil procesamiento.
+
+::Pregunta 5:: ¿Cúal de los siguientes lenguajes no es un lenguaje de marcas?
+=JAVA.
+~HTML.
+~LaTex.
+~SGML.

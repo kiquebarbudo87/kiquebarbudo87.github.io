@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.wrapper { /*Fondo de la web*/
+  background: url(../images/gorillaz.png) no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.navbar { /*Barra de navegación*/
+  height: 60px;
+  width: 100%;
+  background: rgba(0, 2, 94, 0.671);
+}
+
+main {
+  background-color: #01b45b94;
+}
+.logo { /*Logo*/
+  width: 50px;
+  height: 50px;
+  padding: 5px 50px;
+}
+
+/*ENLACES*/
+
+.navbar ul {
+  float: right;
+  margin-right: 20px;
+}
+
+.navbar ul li {
+  list-style: none;
+  margin: 0 8px;
+  display: inline-block;
+  line-height: 80px;
+}
+
+.navbar ul li a{
+  font-family: 'Work Sans', sans-serif;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  text-decoration: none;
+  color: hsla(300, 100%, 71%, 0.555);
+  font-size: 20px;
+  padding: 6px 13px;
+  font-family: 'Roboto', sans-serif;
+  transition: .4s;
+}
+
+.navbar ul li a.active,
+.navbar ul li a:hover{
+  background:rgba(0, 2, 94, 0.671);
+  border-radius: 2px;
+}
+
+/*POSICION TEXTO*/
+
+body {
+	font-family: 'Work Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+.wrapper .center {
+  position: absolute;
+  top: 50%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  font-family: sans-serif;
+  user-select: none;
+}
+
+/*COLOR & TAMAÑO*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+.center h1 {
+  color: rgb(153, 0, 0);
+  font-size: 70px;
+  font-weight: bold;
+  width: 900px;
+  text-align: center;
+}
+
+.center h2 {
+  color: #1d0879;
+  font-size: 40px;
+  font-weight: bold;
+  width: 880px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/*BOTONES*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.center .buttons {
+  margin: 35px 280px;
+}
+
+.buttons button {
+  position: sticky;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  height: 50px;
+  width: 150px;
+  font-size: 15px;
+  font-weight:lighter;
+  color: rgba(255, 255, 255, 0.623);
+  background: #9c068348; 
+  border: 1px solid #ece6eb62;
+  outline: none;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.buttons .btn {
+  position:sticky;
+  margin-left: 25px;
+}
+
+.buttons button:hover {
+  background: #c802cf;
+}
+

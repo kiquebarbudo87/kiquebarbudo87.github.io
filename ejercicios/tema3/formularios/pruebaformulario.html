@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>Ejercicio Formulario</title>
+</head>
+<body>
+    <section>
+        <form name="formulario" method="GET" action="" >
+            <p>Nombre: <input type="text" name="nombre" maxlength="25" placeholder="Nombre"></p>
+            <p>Apellidos: <input type="text" name="apellidos" maxlength="50" placeholder="Apellidos"></p>
+            <p>Correo: <input type="email" name="correo" maxlength="65" minlength="5" placeholder="correo electrónico"></p>
+            <p>Número de Contacto: <input type="tel" name="numero" maxlength="9" placeholder="Télefono"></p>
+            <p>Fecha: <input type="date" name="Fecha"></p>
+
+            <p><label>Hombre:<input type="radio" name="sexo" value="Hombre"></label></p>
+            <p><label>Mujer:<input type="radio" name="sexo" value="Mujer"></label></p>
+            <p><label>Otro:<input type="radio" name="sexo" value="Otro"></label></p>
+            <p>Marca de coche:<input type="text" name="marcas" list="coches"></p>
+            <datalist id="coches">
+                <option>Volvo</option>
+                <option>Fiat</option>
+                <option>Ford</option>
+                <option>Audi</option>
+            </datalist>
+            <p>¿Alguna Sugerencia?</p>
+            <textarea></textarea>
+
+            <p><button type="submit">Enviar</button></p>
+        </form>
+    </section>
+    
+</body>
+</html>
