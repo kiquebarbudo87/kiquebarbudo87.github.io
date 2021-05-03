@@ -1,0 +1,149 @@
+body {
+    background-color: rgb(0, 107, 0);
+  }
+h1 {
+   color: aliceblue; 
+}
+.p1{ 
+    padding: 25px;
+    margin-left: 20px;
+    width: 30em;
+    border: 500px; 
+    background-color: #e8f89e;
+    border: solid rgb(251, 255, 2);
+    
+  }
+  
+.p1 p{
+    border-color: none;
+    color: rgb(255, 81, 0);
+  }
+  
+.p1 h1 {
+    color: #d60000;
+  }
+  
+a {
+    color: #e00303;
+  }
+  
+.caja1 {
+    background-color: rgb(255, 244, 182);
+    font-size: 5vw;
+    padding: 10vw;
+    margin: 5vw;
+    border: solid;
+  }
+  
+  
+.p2 {
+    background-color: white;
+    color: blue;
+    padding: 25px;
+    margin-left: 40px;
+    width: 16em;
+    border: 40px; 
+    border: solid blue;
+    border-width: 4px;
+  }
+  
+.p3 {
+    background-color: white;
+    color: blue;
+    padding: 25px;
+    margin-left: 40px;
+    width: 16em;
+    border: 40px; 
+    border: solid rgb(0, 158, 8);
+    border-width: 4px;
+  }
+  
+.p4 {
+    background-color: white;
+    color: blue;
+    padding: 25px;
+    margin-left: 40px;
+    width: 16em;
+    border: 40px; 
+    border-top: solid blueviolet;
+    border-left: solid gray;
+    border-bottom: solid red;
+    border-right: solid greenyellow;
+    border-width: 4px;
+  }
+  
+.p5 {
+    background-color: white;
+    color: blue;
+    padding: 25px;
+    margin-left: 40px;
+    width: 16em;
+    border: yellow 40px dotted; 
+    border-width: 4px;
+  }
+  
+section p:hover {
+    background-color: rgb(5, 5, 5);
+  } 
+  
+  
+.p6 {
+    outline-style: solid;
+    outline-color: rgb(233, 132, 0);
+    color: rgb(233, 132, 0);
+    background-color: white;
+    padding: 25px;
+    margin-left: 40px;
+    width: 16em;
+    border: 40px; 
+    border: solid black;
+    border-width: 4px;
+  }
+  
+.p7 {
+    outline-style: solid;
+    outline-color: rgb(7, 207, 0);
+    color: orange;
+    background-color: white;
+    padding: 25px;
+    margin-left: 40px;
+    width: 16em;
+    border: 40px; 
+    border: solid black;
+    border-width: 4px;
+  }
+  
+.p8 {
+    outline-style: dotted;
+    outline-color: yellow;
+    color: orange;
+    background-color: white;
+    padding: 25px;
+    margin-left: 40px;
+    width: 16em;
+    border: 40px; 
+    border: solid black;
+    border-width: 4px;
+  }
+  
+input {
+    caret-color: rgb(0, 255, 0);
+    color: white;
+    background: black;
+    font-size: 7vw;
+    padding: 3vw;
+  }
+  
+#seccion{
+    background-image: url(../img/gorillaz.png);
+}
+  
+.caja2 {
+    background-color: rgba(212, 212, 212, 0.164);
+    background-image: url(../img/gorillaz.png);
+    opacity: 2vw;
+    font-size: 3vw;
+    padding: 10vw;
+    margin: 5vw;
+    border: solid;
+  }
