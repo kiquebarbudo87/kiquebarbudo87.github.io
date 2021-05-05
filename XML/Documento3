@@ -1,5 +1,0 @@
-﻿<!ELEMENT recetario (receta*|ingrediente)>
-<!ELEMENT receta (ingrediente)>
-<!ATTLIST receta tipo CDATA (rec_1|rec_2|rec_3)>
-<!ELEMENT ingrediente (#PCDATA)>
-<!ATTLIST ingrediente tipo CDATA (rec_1|rec_2|rec_3)>
