@@ -49,5 +49,15 @@
             <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/persona.xml</link>
             <description>Ejercicio XML de prácticas</description>
         </item>
+        <item>
+            <title>Ejercicio Relación</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/relacion.xml</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
+        <item>
+            <title>Ejercicio Reyes</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/reyes.xml</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
     </channel>
 </rss>
