@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version ="2.0">
+    <channel>
+        <title>RSS Kique Barbudo</title>
+        <link>https://kiquebarbudo87.github.io/</link>
+        <description>Pagina web Kique Barbudo</description>
+        <item>
+            <title>Ejercicio Agenda </title>
+            <link></link>
+            <description>Ejercicio</description>
+        </item>
+        <item>
+            <title>Ejercicio 2</title>
+            <link>https://kiquebarbudo87.github.io/ejercicios/tema3/imagenes/sistemasolar.html</link>
+            <description></description>
+            <comments></comments>
+            
+        </item>
+        <item>
+            
+        </item>
+    </channel>
+</rss>
