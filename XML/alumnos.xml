@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<alumnos
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="alumnos.xsd">
+
+    <nombre>Enrique</nombre>
+    <apellidos>Barbudo</apellidos>
+    <nie>12456787A</nie>
+    <curso>1º DAW</curso>

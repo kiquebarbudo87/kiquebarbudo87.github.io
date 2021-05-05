@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<personas  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+ xs:noNamespaceSchemaLocation="datosPersona.xsd">
+  <persona>
+    <nombre></nombre>
+    <edad>66</edad>
+    <pais></pais>
+    <telefono></telefono>
+  </persona>
+  
+</personas>
+  

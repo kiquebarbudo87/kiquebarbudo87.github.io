@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paises>
+    <pais>
+        <nombre>España</nombre>
+        <capital>Madrid</capital>
+        <jefe_Estado>Felipe VI</jefe_Estado>
+    </pais>
+        <nombre>Francia</nombre>
+        <capital>Paris</capital>
+        <jefe_Estado>Zinedine Zidane</jefe_Estado>
+    <pais>
+        <nombre>Reino Unido</nombre>
+        <capital>Londres</capital>
+        <jefe_Estado>Isabel II</jefe_Estado>
+    </pais>
+</paises>

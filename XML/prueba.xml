@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+xsinoNameSchemaLocation:"prueba.xsd" >
+    <nombre>Mercedes</nombre>
+    <ciudad>Córdoba</ciudad>
+    <fecha_nacimiento>1970-03-27</fecha_nacimiento> 
+</persona>

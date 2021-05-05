@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas SYSTEM "persona.dtd">
+<personas>
+  <persona>
+  <nombre>Enrique</nombre>
+  <mayor_de_edad/>
+  <ciudad>Córdoba</ciudad>
+  <forma_pago tipo = "cheque"></forma_pago>
+  </persona>
+  <persona>
+  <nombre>Quique</nombre>
+  <ciudad>Córdoba</ciudad>
+  <forma_pago tipo="bizum"></forma_pago>
+  </persona>
+</personas>

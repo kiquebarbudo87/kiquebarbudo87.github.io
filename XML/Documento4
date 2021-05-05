@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BDsms [
+<!ELEMENT BDsms (sms*)> 
+<!ELEMENT sms (telefono, fecha, (hora|mensaje)) > 
+<!ELEMENT telefono (#PCDATA) > 
+<!ELEMENT fecha (#PCDATA)> 
+<!ELEMENT hora (#PCDATA) > 
+<!ELEMENT mensaje (#PCDATA) >
+]>
+<BDsms>
+    <sms>
+        <telefono>3423422</telefono>
+        <fecha>01-01-2021</fecha>
+        <mensaje>Buenas tardes</mensaje>
+    </sms>
+    <sms>
+        <telefono>43242342</telefono>
+        <fecha>01-02-2022</fecha>
+        <hora>19:00</hora>
+    </sms>
+</BDsms>

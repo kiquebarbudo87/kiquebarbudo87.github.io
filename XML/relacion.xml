@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE relacion SYSTEM "relacion.dtd">
+<relacion>
+ <persona carnet="si" sexo="hombre">
+    <nombre></nombre>
+    <email></email>
+    <parentesco></parentesco>
+ </persona>
+</relacion>

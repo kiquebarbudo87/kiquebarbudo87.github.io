@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pais>
+    <nombre>España</nombre>
+    <contagios_covid>13.231.321</contagios_covid>
+    <nombre>Francia</nombre>
+    <contagios_covid>15.231.321</contagios_covid>
+</pais>

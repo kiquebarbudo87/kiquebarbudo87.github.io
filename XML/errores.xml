@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE errores [
+  <!ELEMENT errores (error+)>
+  <!ELEMENT error (descripcion,codigo+,actividad,tipo(aviso|warning|fatal),fecha_hora+,nlinea+,ncolumna+)>
+  <!ELEMENT descripcion (#PCDATA)>
+  <!ELEMENT codigo (#PCDATA)>
+  <!ELEMENT actividad (#PCDATA)>
+  <!ELEMENT tipo (#PCDATA)>
+  <!ELEMENT fecha_hora (#PCDATA)>
+  <!ELEMENT nlinea (#PCDATA)>
+  <!ELEMENT ncolumna (#PCDATA)>
+  <!ATTLIST error id CDATA #  REQUIRED>
+  ]>
+  
+
+<errores>
+  <error id="id_1">
+    <descripcion>Falta ciudad</descripcion>
+    <codigo>cod1</codigo>
+    <actividad>etiqueta.xml</actividad>
+    <tipo>AVISO</tipo>
+    <fecha_hora>22/02/21 11:30</fecha_hora>
+    <nlinea>7</nlinea>
+    <ncolumna>
+    1
+    </ncolumna>
+  </error>
+</errores>
+
+<errores>
+  <error id="id_2">
+    <descripcion>
+    Tipos no coinciden
+    </descripcion>
+    <codigo>
+    cod2
+    </codigo>
+    <actividad>
+    agenda.xml
+    </actividad>
+    <tipo>
+    FATAL
+    </tipo>
+    <fecha_hora>
+    22/02/2021 12:00
+    </fecha_hora>
+    <nlinea>
+    7
+    </nlinea>
+    <ncolumna>
+    1
+    </ncolumna>
+  </error>
+</errores>
+
+<errores>
+  <error id="id_3">
+    <descripcion>
+    "Atletismo" mal cerrado
+    </descripcion>
+    <codigo>
+    cod3
+    </codigo>
+    <actividad>
+    deportistas.xml
+    </actividad>
+    <tipo>
+      FATAL
+    </tipo>
+    <fecha_hora>
+    23/02/2021 11:00
+    </fecha_hora>
+    <nlinea>
+    11
+    </nlinea>
+    <ncolumna>
+    14
+    </ncolumna>
+  </error>
+</errores>
+
+<errores>
+  <error id="id_4">
+    <descripcion>
+    Tipos no coinciden
+    </descripcion>
+    <codigo>
+    cod4
+    </codigo>
+    <actividad>
+    ActividadEjemplo14
+    </actividad>
+    <tipo>
+      FATAL
+    </tipo>
+    <fecha_hora>
+    17/02/2020:10:00
+    </fecha_hora>
+    <nlinea>
+    10
+    </nlinea>
+    <ncolumna>
+    10
+    </ncolumna>
+  </error>
+</errores>
+
+<errores>
+  <error id="id_5">
+    <descripcion>
+    Tipos no coinciden
+    </descripcion>
+    <codigo>
+    cod5
+    </codigo>
+    <actividad>
+    ActividadEjemplo15
+    </actividad>
+    <tipo>
+      WARNING
+    </tipo>
+    <fecha_hora>
+    17/02/2020:10:15
+    </fecha_hora>
+    <nlinea>
+    4
+    </nlinea>
+    <ncolumna>
+    55
+    </ncolumna>
+  </error>
+</errores>
