@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculums xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="CV.xsd">
+
+    <cv id="D2" fecha="2020-04-27" categoria="Desarrollador">
+    <datos_personales>
+      <nombre>Enrique</nombre>
+      <apellido1>Barbudo</apellido1>
+      <apellido2>Ordoñez</apellido2>
+      <telefono>957744687</telefono>
+      <correo>a19baoren@iesgrancapitan.org</correo>
+      <direcciones>
+        <direccion>
+          <calle>Del campo</calle>
+          <localidad>Córdoba</localidad>
+          <codigopostal>14005</codigopostal>
+          <provincia>Córdoba</provincia>
+          <pais>España</pais>
+        </direccion>
+      </direcciones>
+      <rrss>
+        <nombre>Twitter</nombre>
+        <nick>kiqueland</nick>
+        <enlace>twitter.com</enlace>
+        <valoracion>2</valoracion>
+      </rrss>
+    </datos_personales>
+    <datos_academicos>
+      <titulaciones_oficiales>
+        <descripcion>Bachillerato</descripcion>
+        <organismo>Junta de Andalucía</organismo>
+        <fechaInicio>2017-09-15</fechaInicio>
+        <fechaFinalizacion>2019-05-13</fechaFinalizacion>
+      </titulaciones_oficiales>
+      <cursos>
+        <descripcion>Curso HTML y CSS</descripcion>
+        <empresa>Google</empresa>
+        <fechaInicio>2019-04-27</fechaInicio>
+        <fechaFinalizacion>2019-04-29</fechaFinalizacion>
+      </cursos>
+      <nivelIdioma>
+        <comprender>B2</comprender>
+        <hablar>B2</hablar>
+        <escribir>B2</escribir>
+      </nivelIdioma>
+    </datos_academicos>
+    <experiencia_laboral>
+      <empresa>
+        <nombre>Bar budo S,L.</nombre>
+        <fechaInicio>2020-12-31</fechaInicio>
+        <fechaFinalizacion>2020-04-15</fechaFinalizacion>
+        <tarea>Desarrollo de Aplicaciones Webs</tarea>
+      </empresa>
+    </experiencia_laboral>
+    </cv>
+  <cv id="D1" fecha="2020-05-05" categoria="Desarrollador">
+    <datos_personales>
+      <nombre>Enrique</nombre>
+      <apellido1>Barbudo</apellido1>
+      <apellido2>Ordoñez</apellido2>
+      <telefono>957744687</telefono>
+      <correo>a19baoren@iesgrancapitan.org</correo>
+      <direcciones>
+        <direccion>
+          <calle>Del campo</calle>
+          <localidad>Córdoba</localidad>
+          <codigopostal>14005</codigopostal>
+          <provincia>Córdoba</provincia>
+          <pais>España</pais>
+        </direccion>
+      </direcciones>
+      <rrss>
+        <nombre>Twitter</nombre>
+        <nick>kiqueland</nick>
+        <enlace>twitter.com</enlace>
+        <valoracion>2</valoracion>
+      </rrss>
+    </datos_personales>
+    <datos_academicos>
+      <titulaciones_oficiales>
+        <descripcion>Técnico superior en Alojamientos</descripcion>
+        <organismo>Junta de Andalucía</organismo>
+        <fechaInicio>2008-09-15</fechaInicio>
+        <fechaFinalizacion>2010-05-13</fechaFinalizacion>
+      </titulaciones_oficiales>
+      <cursos>
+        <descripcion>SEO y Marketing Google</descripcion>
+        <empresa>Google</empresa>
+        <fechaInicio>2018-04-27</fechaInicio>
+        <fechaFinalizacion>2019-01-01</fechaFinalizacion>
+      </cursos>
+      <nivelIdioma>
+        <comprender>B2</comprender>
+        <hablar>B2</hablar>
+        <escribir>B2</escribir>
+      </nivelIdioma>
+    </datos_academicos>
+    <experiencia_laboral>
+      <empresa>
+        <nombre>Media Markt</nombre>
+        <fechaInicio>2018-12-01</fechaInicio>
+        <fechaFinalizacion>2020-11-01</fechaFinalizacion>
+        <tarea>Venta</tarea>
+      </empresa>
+    </experiencia_laboral>
+    </cv>
+    
+
+</curriculums>
