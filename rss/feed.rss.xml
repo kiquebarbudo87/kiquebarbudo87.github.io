@@ -7,17 +7,47 @@
         <item>
             <title>Ejercicio Agenda </title>
             <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/agenda.xml</link>
-            <description>Ejercicio agenda</description>
+            <description>Ejercicio XML de prácticas</description>
         </item>
         <item>
-            <title>Ejercicio 2</title>
-            <link>https://kiquebarbudo87.github.io/ejercicios/tema3/imagenes/sistemasolar.html</link>
-            <description></description>
-            <comments></comments>
-            
+            <title>Ejercicio Universidades</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/Universidades.xml</link>
+            <description>Este documento XML nos muestra los datos de una Universidad</description>
         </item>
         <item>
-            
+            <title>Ejercicio Alumnos</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/alumnos.xml</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
+        <item>
+            <title>Ejercicio datosPersona</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/datosPersona.xml</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
+        <item>
+            <title>Ejercicio declaracionInterna</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/declaracionInterna</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
+        <item>
+            <title>Ejercicio Errores</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/errores.xml</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
+        <item>
+            <title>Ejercicio Etiqueta</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/etiqueta.xml</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
+        <item>
+            <title>Ejercicio Países</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/paises.xml</link>
+            <description>Ejercicio XML de prácticas</description>
+        </item>
+        <item>
+            <title>Ejercicio Persona</title>
+            <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/persona.xml</link>
+            <description>Ejercicio XML de prácticas</description>
         </item>
     </channel>
 </rss>
