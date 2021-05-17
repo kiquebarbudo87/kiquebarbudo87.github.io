@@ -59,5 +59,15 @@
             <link>https://github.com/kiquebarbudo87/kiquebarbudo87.github.io/blob/main/XML/reyes.xml</link>
             <description>Ejercicio XML de prácticas</description>
         </item>
+        <item>
+            <title>Ejercicio ERP</title>
+            <link>https://kiquebarbudo87.github.io/ERP/index.html</link>
+            <description>ERP</description>
+        </item>
+        <item>
+            <title>Ejercicio Odoo</title>
+            <link>https://kiquebarbudo87.github.io/Oddo/index.html</link>
+            <description>Odoo</description>
+        </item>
     </channel>
 </rss>
